@@ -36,3 +36,5 @@ Provide a link to learn more about <a href="{{ "/guidelines/code.html" | prepend
 
 ## Support and Community
 Provide information on where people can go to <a href="{{ "/support.html" | prepend: site.baseurl }}">ask for help</a>, and provide a link to the <a href="{{ "/contribute.html" | prepend: site.baseurl }}">contribution page</a> to help plant tback to the system.
+
+## Resources
