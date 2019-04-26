@@ -1,7 +1,7 @@
 ---
 layout: page
 type: detail
-title: Imagery
+title: App Icons
 group: styles
 permalink: /styles/imagery.html
 description: Styles for treating pictures and graphics
