@@ -1,31 +1,25 @@
 - title: Introduction
   url: /
 
-- title: Getting started
+- title: Sage Design
   url: /getting-started.html
 
-- title: Guidelines
+- title: Components
   group: guidelines
 
-- title: Styles
+- title: Visual Guidelines
   group: styles
 
-- title: Components
-  group: components
-
-- title: Utilities
-  group: utilities
-
-- title: Page templates
+- title: Templates
   group: page-templates
 
-- title: Downloads
+- title: Resources
   url: /downloads.html
 
 - title: Support
   url: /support.html
 
-- title: Release history
+- title: What's New?
   url: /release-history/
 
 - title: Contribute
