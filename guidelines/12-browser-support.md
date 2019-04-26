@@ -1,7 +1,7 @@
 ---
 layout: page
 type: detail
-title: Browser support
+title: Typography
 group: guidelines
 permalink: /guidelines/browsers.html
 description: Guidelines that explain which browsers the design system is optimized for
