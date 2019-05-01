@@ -10,7 +10,7 @@ description: Color brings a design to life. Color is versatile; it's used to exp
 
 
 ## Main colors
-
+The colors are.. (testing text addtion)
 
 {% include color-preview.html name="Primary" hexcode="#007bff" %}
 {% include color-preview.html name="Secondary" hexcode="#6c757d" %}
